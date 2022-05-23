@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(204, 232, 243);
+}
+p {
+  font-size: 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+div.info {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 10px;
+  text-align: center;
+}
+a {
+  font-size: 25px;
+}
+
+li {
+  font-size: 20px;
+}
+
+div.intro {
+  text-align: center;
+  color: rgb(32, 45, 223);
+  background-color: rgba(174, 248, 248, 0.5);
+  box-sizing: content-box 20px;
+  border: 10px solid rgba(29, 83, 165, 0.5);
+}
+
+div.contact {
+  border: 5px solid rgb(98, 98, 223);
+  text-align: center;
+  text-decoration-color: white;
+  background-image: url(https://media.istockphoto.com/photos/-picture-id1311934969?b=1&k=20&m=1311934969&s=170667a&w=0&h=UQ3F8CE5zam5mT5swIliZ9nO7dhX4ZzsALMufFdv6Ys=);
+  background-position: 520px;
+  padding: 10px;
+  margin: 15px;
+  width: 500px;
+  height: 170px;
+}
